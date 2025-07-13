@@ -1,5 +1,5 @@
-- [x]**Markdown** Learn how to use the grammar of Markdown
-- [ ] **Deep-learnin** nline course
+- [x] **Markdown** Learn how to use the grammar of Markdown
+- [ ] **Deep-learning**online course
 - [ ] **Python** daily practice
 - [ ] **CET-6** daily exercise
 - [ ] **Database technology** 
@@ -17,7 +17,8 @@
 |链接| `[Baidu](https://baidu.com)`| [Baidu](https://baidu.com)|
 ### 附加知识点
 
-*表头居中* :-----:|:----------:|:---------- 
+*表头居中* :-----:|:----------:|:----------
+*附加图片格式* ：![alt text](image-1.png)
 
 ### homework
 
@@ -25,3 +26,7 @@ basic-practice D:\innocence\每日学习记录\Markdown_practice\basic-practice.
 table-code D:\innocence\每日学习记录\Markdown_practice\table-code.md
 
 ---
+
+## DataBase Technology
+### chapter 1 数据库应用系统开发方法
+
